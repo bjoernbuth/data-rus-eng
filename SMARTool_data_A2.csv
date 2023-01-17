@@ -282,9 +282,9 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 территория,2646,territory,,N.Fem.Inan,A2,LM,1,территории,Loc.Sing,Что есть на территории парка?,What is there on the park’s territory?,,_,политика,,
 территория,2647,territory,,N.Fem.Inan,A2,LM,2,территорий,Gen.Plur,Присоединение новых территорий не интересно государствам в двадцать первом веке. ,Acquiring new territories is of no interest to countries in the twenty-first century.,,_,политика,,
 территория,2648,territory,,N.Fem.Inan,A2,LM,3,территорию,Acc.Sing,Как пройти на территорию Московского Кремля?,How to get to the grounds of the Moscow Kremlin?,,_,политика,,
-терять,2649,loose,,V,A2,"Golosa, LM",1,теряет,Imperf.Sing.3,Он постоянно теряет свои вещи.,He's always losing his things.,,_,люди,,
-терять,2650,loose,,V,A2,"Golosa, LM",2,терять,Imperf.Inf,Ей больше нечего терять. ,She has nothing to loose anymore.,,_,люди,,
-терять,2651,loose,,V,A2,"Golosa, LM",3,теряют,Imperf.Plur.3,Деньги со временем теряют свою ценность. ,"In time, money loses its value.",,_,люди,,
+терять,2649,lose,,V,A2,"Golosa, LM",1,теряет,Imperf.Sing.3,Он постоянно теряет свои вещи.,He's always losing his things.,,_,люди,,
+терять,2650,lose,,V,A2,"Golosa, LM",2,терять,Imperf.Inf,Ей больше нечего терять. ,She has nothing to loose anymore.,,_,люди,,
+терять,2651,lose,,V,A2,"Golosa, LM",3,теряют,Imperf.Plur.3,Деньги со временем теряют свою ценность. ,"In time, money loses its value.",,_,люди,,
 торт,2652,cake,,N.Masc.Inan,A2,"Golosa, LM, Кс",1,торт,Acc.Sing,Он купит торт к ужину?,Will he buy a cake for the dinner?,,_,"магазин, еда",,
 торт,2653,cake,,N.Masc.Inan,A2,"Golosa, LM, Кс",2,тортом,Ins.Sing,Они пришли к нам в гости с тортом и цветами.,They came to our place with flowers and a cake.,,_,"магазин, еда",,
 торт,2654,cake,,N.Masc.Inan,A2,"Golosa, LM, Кс",3,торта,Gen.Sing,"Я уже съела два куска торта, но хочу ещё.",I have already eaten two pieces of cake but I want some more.,,_,"магазин, еда",,
@@ -450,9 +450,9 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 энергия,2814,energy,,N.Fem.Inan,A2,LM,1,энергии,Gen.Sing,В нём всегда много энергии и интересных идей.,He's always full of energy and interesting ideas.,,_,внутренний мир,,
 энергия,2815,energy,,N.Fem.Inan,A2,LM,2,энергия,Nom.Sing,Солнечная энергия экологичнее атомной?,Is solar energy more eco-friendly than atomic energy?,,_,внутренний мир,,
 энергия,2816,energy,,N.Fem.Inan,A2,LM,3,энергию,Acc.Sing,Где найти энергию для работы?,Where can I find the energy to work?,,_,внутренний мир,,
-юбка,2817,skirt,,N.Fem.Inan,A2,"Golosa, LM, Поехали",1,юбке,Loc.Sing,Зимой я не хожу в юбке — холодно.,I don't wear a skirt in winter -- it's cold outside.,,_,"мера, магазин",,
-юбка,2818,skirt,,N.Fem.Inan,A2,"Golosa, LM, Поехали",2,юбку,Acc.Sing,Она хочет купить новую юбку.,She wants to buy a new skirt.,,_,"мера, магазин",,
-юбка,2819,skirt,,N.Fem.Inan,A2,"Golosa, LM, Поехали",3,юбкой,Ins.Sing,Что надеть с этой юбкой?,What should I wear with this skirt?,,_,"мера, магазин",,
+юбка,2817,skirt,,N.Fem.Inan,A2,"Golosa, LM, Поехали",1,юбке,Loc.Sing,Зимой я не хожу в юбке — холодно.,I don't wear a skirt in winter -- it's cold outside.,,_,"магазин",,
+юбка,2818,skirt,,N.Fem.Inan,A2,"Golosa, LM, Поехали",2,юбку,Acc.Sing,Она хочет купить новую юбку.,She wants to buy a new skirt.,,_,"магазин",,
+юбка,2819,skirt,,N.Fem.Inan,A2,"Golosa, LM, Поехали",3,юбкой,Ins.Sing,Что надеть с этой юбкой?,What should I wear with this skirt?,,_,"магазин",,
 юг,2820,South,,N.Masc.Inan,A2,"Golosa, LM",1,юге,Loc.Sing,Я никогда не была на юге Италии.,I have never been to the South of Italy.,,_,"путешествие, транспорт, погода",,
 юг,2821,South,,N.Masc.Inan,A2,"Golosa, LM",2,юг,Acc.Sing,Осенью птицы улетают на юг.,Birds fly south in autumn.,,_,"путешествие, транспорт, погода",,
 юг,2822,South,,N.Masc.Inan,A2,"Golosa, LM",3,юга,Gen.Sing,Ветер с юга принёс нам дождь.,The wind from the South brought us rain.,,_,"путешествие, транспорт, погода",,
@@ -668,7 +668,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 галерея,1612,gallery,,N.Fem.Inan,A2,"Golosa, LM",1,галерею,Acc.Sing,В галерею современного искусства привезли работы Шагала.,Shagal’s works were delivered to the gallery of contemporary art.,,_,свободное время,,
 галерея,1613,gallery,,N.Fem.Inan,A2,"Golosa, LM",2,галерее,Loc.Sing,Сегодня в Третьяковской галерее открывается новая выставка.,A new exhibition is opening today in Tretyakov gallery.,,_,свободное время,,
 галерея,1614,gallery,,N.Fem.Inan,A2,"Golosa, LM",3,галереях,Loc.Plur,Завтра во всех московских галереях бесплатный вход.,Tomorrow there is free entrance to all Moscow galleries.,,_,свободное время,,
-герой,1615,hero,,N.Masc.Anim,A2,LM,1,герой,Nom.Sing,Кто в этой книге -- главный герой?,Who is the main character in this book?,,_,"люди, политика",,Too complicated!
+герой,1615,hero,,N.Masc.Anim,A2,LM,1,герой,Nom.Sing,Кто в этой книге главный герой?,Who is the main character in this book?,,_,"люди, политика",,Too complicated!
 герой,1616,hero,,N.Masc.Anim,A2,LM,2,героев,Gen.Plur,Один из героев фильма умирает в конце.,One of the movie characters dies in the end.,,_,"люди, политика",,Too complicated!
 герой,1617,hero,,N.Masc.Anim,A2,LM,3,героя,Gen.Sing,Какое имя у главного героя этого фильма?,What is the name of the main character of that movie?,,_,"люди, политика",,"Wrong form -- we need Gen. Sg, not Acc."
 главный,1618,main,,A,A2,"Golosa, LM",1,главный,Nom.Masc.Sing,С января в нашем журнале появится новый главный редактор.,Beginning in January our magazine is going to have a new editor in chief.,,_,описание,,
@@ -877,7 +877,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 золотой,1821,golden,,A,A2,LM,2,золотой,Nom.Masc.Sing,Где мой любимый золотой браслет? Я нигде не могу его найти. ,Where is my favorite golden bracelet? I can't find it anywhere.,,_,"описание, магазин",,
 золотой,1822,golden,,A,A2,LM,3,золотое,Nom.Neut.Sing,Мне очень нравится это золотое кольцо! Я хочу его купить.,I really like that gold ring! I want to buy it.,,_,"описание, магазин",,
 зонтик,1823,umbrella,,N.Masc.Inan,A2,LM,1,зонтик,Acc.Sing,"Сегодня дождь, не забудь взять зонтик.","It's raining today, don't forget to take an umbrella.",,_,"магазин, погода",,
-зонтик,1824,umbrella,,N.Masc.Inan,A2,LM,2,зонтики,Acc.Plur,"Ты всё теряешь ― зонтики, кошельки, ключи...","You loose everything -- umbrellas, wallets, keys...",,_,"магазин, погода",,
+зонтик,1824,umbrella,,N.Masc.Inan,A2,LM,2,зонтики,Acc.Plur,"Ты всё теряешь ― зонтики, кошельки, ключи...","You lose everything -- umbrellas, wallets, keys...",,_,"магазин, погода",,
 зонтик,1825,umbrella,,N.Masc.Inan,A2,LM,3,зонтиком,Ins.Sing,Как приятно вместе идти под зонтиком!,How nice it is to walk together under the same umbrella.,,_,"магазин, погода",,
 зуб,1826,tooth,,N.Masc.Inan,A2,"Golosa, LM",1,зуб,Nom.Sing,У меня болит зуб. Надо записаться к врачу.,I have a toothache. I need to get an appointment with my dentist.,,_,здоровье,,
 зуб,1827,tooth,,N.Masc.Inan,A2,"Golosa, LM",2,зубы,Acc.Plur,Я боюсь лечить зубы. Это так больно!,I'm scared of getting my teeth fixed. It’s so painful!,,_,здоровье,,
@@ -1009,9 +1009,9 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 менять,1951,change,,V,A2,LM,1,менять,Imperf.Inf,Хамелеоны могут менять цвет кожи.,Chameleons can change their skin color.,,_,описание
 менять,1952,change,,V,A2,LM,2,меняет,Imperf.Sing.3,Петя часто меняет работу.,Petya changes jobs often.,,_,описание
 менять,1953,change,,V,A2,LM,3,меняют,Imperf.Plur.3,Войска меняют тактику и используют другое оружие.,The troops change their tactics and use other weapons.,,_,описание
-мертвый,1954,dead,,A,A2,LM,1,мёртв,Masc.Sing,"Когда врачи приехали, писатель был уже мёртв.","When the doctors come, the writer was already dead.",,_,"здоровье, описание"
-мертвый,1955,dead,,N.Masc.Anim,A2,LM,2,мёртвых,Acc.Plur,В этот день в Аргентине вспоминают мёртвых. ,On this day the dead are remembered in Argentina.,,_,"здоровье, описание"
-мертвый,1956,dead,,A,A2,LM,3,мёртвым,Ins.Masc.Sing,Он был найден мёртвым в отеле.,He was found dead in the hotel.,,_,"здоровье, описание"
+мёртвый,1954,dead,,A,A2,LM,1,мёртв,Masc.Sing,"Когда врачи приехали, писатель был уже мёртв.","When the doctors come, the writer was already dead.",,_,"здоровье, описание"
+мёртвый,1955,dead,,N.Masc.Anim,A2,LM,2,мёртвых,Acc.Plur,В этот день в Аргентине вспоминают мёртвых. ,On this day the dead are remembered in Argentina.,,_,"здоровье, описание"
+мёртвый,1956,dead,,A,A2,LM,3,мёртвым,Ins.Masc.Sing,Он был найден мёртвым в отеле.,He was found dead in the hotel.,,_,"здоровье, описание"
 мечта,1957,dream,,N.Fem.Inan,A2,"MiP, LM",1,мечты,Gen.Sing,У меня нет мечты.,I don't have a dream.,,_,внутренний мир
 мечта,1958,dream,,N.Fem.Inan,A2,"MiP, LM",2,мечта,Nom.Sing,Моя мечта – научиться танцевать.,My dream is to learn how to dance.,,_,внутренний мир
 мечта,1959,dream,,N.Fem.Inan,A2,"MiP, LM",3,мечту,Acc.Sing,Я осуществил свою давнюю мечту.,I realized my long-held dream.,,_,внутренний мир
