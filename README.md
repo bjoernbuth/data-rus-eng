@@ -13,7 +13,9 @@ Contact information:
 - Email: laura.janda@uit.no
 - ORCID: https://orcid.org/0000-0001-5047-1909
 
-Data used by: https://github.com/smartool/smartool-rus-eng
+Data used by: SMARTool for English-speaking learners of Russian (website:
+https://smartool.github.io/smartool-rus-eng/, source code:
+https://github.com/smartool/smartool-rus-eng)
 
 
 ## Terms of reuse
@@ -26,9 +28,9 @@ The dataset is provided under the [CC-BY 4.0 license](https://creativecommons.or
 - README.md: contains metadata about the dataset
 - SMARTool_data_A1.csv: example sentences for the A1 level
 - SMARTool_data_A2.csv: example sentences for the A2 level
+- SMARTool_data_Abbreviations.csv: mapping abbreviations to their full names
 - SMARTool_data_B1.csv: example sentences for the B1 level
 - SMARTool_data_B2.csv: example sentences for the B2 level
-- SMARTool_data_Abbreviations.csv: mapping abbreviations to their full names
 - SMARTool_data_Terms.csv: mapping grammatical terms to their full names
 - SMARTool_data_Topics.csv: mapping topics to their translations
 
