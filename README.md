@@ -79,10 +79,9 @@ Ins.Sing, facilitating grammatical exercises), and d) Dictionary form.
 
 ## Related publications
 
-1.  Janda, Laura A. and Francis M. Tyers. 2018. Less is More: Why All
-    Paradigms are Defective, and Why that is a Good Thing. *Corpus
-    Linguistics and Linguistic Theory* 14(2), 33pp.
-    <doi.org/10.1515/cllt-2018-0031>.
+1.  Janda, Laura A. and Francis M. Tyers. 2021. Less is more: why all paradigms
+    are defective, and why that is a good thing.  *Corpus Linguistics and
+    Linguistic Theory* 14(2), 33pp.  <doi.org/10.1515/cllt-2018-0031>.
 
 2.  Janda, Laura A. 2019. Businessmen and Ballerinas Take Different
     Forms: A Strategic Resource for Acquiring Russian Vocabulary and
