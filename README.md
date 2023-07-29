@@ -13,30 +13,7 @@ Contact information:
 - Email: laura.janda@uit.no
 - ORCID: https://orcid.org/0000-0001-5047-1909
 
-Data used by: SMARTool for English-speaking learners of Russian (website:
-https://smartool.github.io/smartool-rus-eng/, source code:
-https://github.com/smartool/smartool-rus-eng)
-
-
-## Terms of reuse
-
-The dataset is provided under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
-
-
-## Data and file overview
-
-- README.md: contains metadata about the dataset
-- SMARTool_data_A1.csv: example sentences for the A1 level
-- SMARTool_data_A2.csv: example sentences for the A2 level
-- SMARTool_data_Abbreviations.csv: mapping abbreviations to their full names
-- SMARTool_data_B1.csv: example sentences for the B1 level
-- SMARTool_data_B2.csv: example sentences for the B2 level
-- SMARTool_data_Terms.csv: mapping grammatical terms to their full names
-- SMARTool_data_Topics.csv: mapping topics to their translations
-
-
-## Authors
-
+Contributors:
 - Bast, Radovan (UiT The Arctic University of Norway) - ORCID: 0000-0002-7658-1847
 - Janda, Laura A. (UiT The Arctic University of Norway) - ORCID: 0000-0001-5047-1909
 - Kopotev, Mikhail (University of Helsinki): ORCID: 0000-0002-4998-2952
@@ -50,8 +27,21 @@ The dataset is provided under the [CC-BY 4.0 license](https://creativecommons.or
 - Zhukova, Valentina (UiT The Arctic University of Norway) - ORCID: 0000-0002-8058-6480
 - Elizaveta Kibisova (Higher School of Economics in Moscow) - ORCID: 0000-0001-8922-9239
 
+Data type: textual linguistic data
 
-## Description
+Date of data collection/generation: 2016-2022
+
+Geographic location: Russia
+
+Funding sources:
+- The Norwegian Agency for International Cooperation and Quality Enhancement in Higher Education (Diku): CPRU-2017/10027
+
+
+## Description of the dataset
+
+Data used by: SMARTool for English-speaking learners of Russian (website:
+https://smartool.github.io/smartool-rus-eng/, source code:
+https://github.com/smartool/smartool-rus-eng)
 
 The SMARTool is a free web resource for L2 learners of Russian that
 implements findings of a learning simulation experiment and corpus
@@ -77,6 +67,46 @@ filters that facilitate searching by: a) CEFR Level, b) Topic (such as
 Ins.Sing, facilitating grammatical exercises), and d) Dictionary form.
 
 
+## Data sources
+
+Lexemes were selected from a merged list of vocabulary from five Russian
+language textbooks (Hertz et al. 2001, Chernyshov 2004, Robin, Shatalina, and
+Evans-Romaine 2012, deBenedette et al. 2013, Bondar’ and Lutin 2013) plus the
+Лексический минимум по русскому языку как иностранному (Andriushchina et al.
+2014–2015) for the corresponding levels. A panel of experienced teachers of
+Russian from three universities in Russia and Europe collaborated on the
+selection of lexemes (see SMARTool Authors):
+- Hertz, Birgitte, Hanne Leervad, Henrik Lærkes, Henrik Møller, and Peter
+  Schousboe. 2001. Свидание в Петербурге. Møde i Petersborg. Copenhagen:
+  Gyldendal.
+- Chernyshov, Stanislav. 2004. Poexali! St. Petersburg: Zlatoust.
+- Robin, Richard, Galina Shatalina, and Karen Evans-Romaine. 2012. Golosa. Vols
+  1–2. 5th ed. New York: Pearson.
+- deBenedette, Lynne, William J. Comer, Alla Smyslova, and Jonathan Perkins.
+  2013. Между нами (Between You and Me): An Interactive Introduction to
+  Russian. Accessed April 1, 2018. http://www. mezhdunami.org/.
+- Andriushchina, N. P., G. A. Bitekhtina, L. P. Klobukova, L. N. Noreiko, I. V.
+  Odintsova, eds. 2014–2015. Leksicheskii mimimum po russkomu iazyku kak
+  inostrannomu. Levels A1–B2. St. Petersburg: Zlatoust.
+
+
+## Data and file overview
+
+- README.md: contains metadata about the dataset
+- SMARTool_data_A1.csv: example sentences for the A1 level
+- SMARTool_data_A2.csv: example sentences for the A2 level
+- SMARTool_data_Abbreviations.csv: mapping abbreviations to their full names
+- SMARTool_data_B1.csv: example sentences for the B1 level
+- SMARTool_data_B2.csv: example sentences for the B2 level
+- SMARTool_data_Terms.csv: mapping grammatical terms to their full names
+- SMARTool_data_Topics.csv: mapping topics to their translations
+
+
+## Sharing/access information
+
+The dataset is provided under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
+
+
 ## Related publications
 
 1.  Janda, Laura A. and Francis M. Tyers. 2021. Less is more: why all paradigms
@@ -96,30 +126,3 @@ Ins.Sing, facilitating grammatical exercises), and d) Dictionary form.
     Е.А. Горобец. -- Казань: Издательство Казанского университета. --
     Т. 1. -- 450 с., <https://cloud.mail.ru/public/xeKT/vGMAQBUMa> , pp.
     280--284.
-
-
-## Other metadata
-
-Subject: Arts and Humanities
-
-Keywords:
-- Russian
-- language pedagogy
-- morphology
-- inflection
-- frequency
-
-Language: English
-
-Producer: UiT The Arctic University of Norway
-
-Production place: Norway
-
-Grant information: The Norwegian Agency for International Cooperation and
-Quality Enhancement in Higher Education (Diku): CPRU-2017/10027
-
-Kind of data: textual linguistic data
-
-Data sources: The illustrative material provided for each word form consists of
-authentic sentences created by native speakers of Russian and inspired data
-from the [Russian National Corpus](https://ruscorpora.ru/).
