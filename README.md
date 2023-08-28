@@ -80,14 +80,14 @@ selection of lexemes (see SMARTool Authors):
 
 ## Data and file overview
 
-- README.md: contains metadata about the dataset
-- SMARTool_data_A1.csv: example sentences for the A1 level
-- SMARTool_data_A2.csv: example sentences for the A2 level
-- SMARTool_data_Abbreviations.csv: mapping abbreviations to their full names
-- SMARTool_data_B1.csv: example sentences for the B1 level
-- SMARTool_data_B2.csv: example sentences for the B2 level
-- SMARTool_data_Terms.csv: mapping grammatical terms to their full names
-- SMARTool_data_Topics.csv: mapping topics to their translations
+- README.md: Contains metadata about the dataset
+- SMARTool_data_A1.csv: Example sentences for the A1 level
+- SMARTool_data_A2.csv: Example sentences for the A2 level
+- SMARTool_data_Abbreviations.csv: Mapping abbreviations to their full names
+- SMARTool_data_B1.csv: Example sentences for the B1 level
+- SMARTool_data_B2.csv: Example sentences for the B2 level
+- SMARTool_data_Terms.csv: Mapping grammatical terms to their full names
+- SMARTool_data_Topics.csv: Mapping topics to their translations
 
 
 ## Sharing/access information
