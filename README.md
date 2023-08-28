@@ -54,6 +54,14 @@ filters that facilitate searching by: a) CEFR Level, b) Topic (such as
 время/time, еда/food, здоровье/health etc.), c) Analysis (such as
 Ins.Sing, facilitating grammatical exercises), and d) Dictionary form.
 
+We include files with the example sentences that show the typical use of each
+wordform cited in the SMARTool, stratified according to CEFR proficiency levels
+A1, A2, B1, and B2. In addition, there are files that link abbreviations for
+linguistic categories to their full names (for example, Acc.Plur is mapped to
+Accusative Plural and Acc is mapped to Accusative while Plur is mapped to
+Plural), as well as files that link the Russian names of Topics to their
+English equivalents (for example время is mapped to time).
+
 
 ## Methodology
 
