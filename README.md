@@ -1,11 +1,8 @@
-[![License](https://img.shields.io/badge/license-%20CC--BY-blue.svg)](LICENSE)
-
-
 ## General information
 
 Title of the dataset: "Data used by SMARTool for English-speaking learners of Russian"
 
-DOI: (to be filled out later)
+DOI: https://doi.org/10.18710/QNAPNE
 
 Contact information:
 - Name: Janda, Laura A.
@@ -13,7 +10,7 @@ Contact information:
 - Email: laura.janda@uit.no
 - ORCID: https://orcid.org/0000-0001-5047-1909
 
-Contributors:
+Authors:
 - Bast, Radovan (UiT The Arctic University of Norway) - ORCID: 0000-0002-7658-1847
 - Janda, Laura A. (UiT The Arctic University of Norway) - ORCID: 0000-0001-5047-1909
 - Kopotev, Mikhail (University of Helsinki): ORCID: 0000-0002-4998-2952
@@ -27,26 +24,17 @@ Contributors:
 - Zhukova, Valentina (UiT The Arctic University of Norway) - ORCID: 0000-0002-8058-6480
 - Elizaveta Kibisova (Higher School of Economics in Moscow) - ORCID: 0000-0001-8922-9239
 
-Data type: textual linguistic data
-
-Date of data collection/generation: 2016-2022
-
-Geographic location: Russia
-
-Funding sources:
-- The Norwegian Agency for International Cooperation and Quality Enhancement in Higher Education (Diku): CPRU-2017/10027
-
 
 ## Description of the dataset
 
-Data used by: SMARTool for English-speaking learners of Russian (website:
+This dataset is used by: SMARTool for English-speaking learners of Russian (website:
 https://smartool.github.io/smartool-rus-eng/, source code:
 https://github.com/smartool/smartool-rus-eng)
 
 The SMARTool is a free web resource for L2 learners of Russian that
 implements findings of a learning simulation experiment and corpus
 research to optimize the acquisition of Russian vocabulary and
-morphology. Corpus data (Janda & Tyers 2018) reveals that for any given
+morphology. Corpus data (Janda & Tyers 2021) reveals that for any given
 Russian lexeme, only a few (usually 1-3) wordforms account for nearly
 all attestations, while remaining wordforms are rare or unattested. Our
 computational learning experiment shows that learning of Russian
@@ -67,7 +55,7 @@ filters that facilitate searching by: a) CEFR Level, b) Topic (such as
 Ins.Sing, facilitating grammatical exercises), and d) Dictionary form.
 
 
-## Data sources
+## Methodology
 
 Lexemes were selected from a merged list of vocabulary from five Russian
 language textbooks (Hertz et al. 2001, Chernyshov 2004, Robin, Shatalina, and
