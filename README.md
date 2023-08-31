@@ -72,18 +72,20 @@ Evans-Romaine 2012, deBenedette et al. 2013, Bondar’ and Lutin 2013) plus the
 2014–2015) for the corresponding levels. A panel of experienced teachers of
 Russian from three universities in Russia and Europe collaborated on the
 selection of lexemes (see SMARTool Authors):
-- Hertz, Birgitte, Hanne Leervad, Henrik Lærkes, Henrik Møller, and Peter
-  Schousboe. 2001. Свидание в Петербурге. Møde i Petersborg. Copenhagen:
-  Gyldendal.
-- Chernyshov, Stanislav. 2004. Poexali! St. Petersburg: Zlatoust.
-- Robin, Richard, Galina Shatalina, and Karen Evans-Romaine. 2012. Golosa. Vols
-  1–2. 5th ed. New York: Pearson.
-- deBenedette, Lynne, William J. Comer, Alla Smyslova, and Jonathan Perkins.
-  2013. Между нами (Between You and Me): An Interactive Introduction to
-  Russian. Accessed April 1, 2018. http://www. mezhdunami.org/.
 - Andriushchina, N. P., G. A. Bitekhtina, L. P. Klobukova, L. N. Noreiko, I. V.
   Odintsova, eds. 2014–2015. Leksicheskii mimimum po russkomu iazyku kak
   inostrannomu. Levels A1–B2. St. Petersburg: Zlatoust.
+- Bondar’, Nataliia I., and Sergei A. Lutin. 2013. Kak sprosit’? Kak skazat’?
+  2nd ed. Moscow: Russkii iazyk.
+- Chernyshov, Stanislav. 2004. Poexali! St. Petersburg: Zlatoust.
+- deBenedette, Lynne, William J. Comer, Alla Smyslova, and Jonathan Perkins.
+  2013. Между нами (Between You and Me): An Interactive Introduction to
+  Russian. Accessed April 1, 2018. http://www.mezhdunami.org/.
+- Hertz, Birgitte, Hanne Leervad, Henrik Lærkes, Henrik Møller, and Peter
+  Schousboe. 2001. Свидание в Петербурге. Møde i Petersborg. Copenhagen:
+  Gyldendal.
+- Robin, Richard, Galina Shatalina, and Karen Evans-Romaine. 2012. Golosa. Vols
+  1–2. 5th ed. New York: Pearson.
 
 
 ## Data and file overview
@@ -94,8 +96,65 @@ selection of lexemes (see SMARTool Authors):
 - SMARTool_data_Abbreviations.csv: Mapping abbreviations to their full names
 - SMARTool_data_B1.csv: Example sentences for the B1 level
 - SMARTool_data_B2.csv: Example sentences for the B2 level
-- SMARTool_data_Terms.csv: Mapping grammatical terms to their full names
 - SMARTool_data_Topics.csv: Mapping topics to their translations
+
+
+### Relationship between files
+
+Each of the files can be used together, or separately.
+
+File SMARTool_data_Abbreviations.csv lists and explains the linguistic
+abbreviations that are used in the following files: SMARTool_data_A1.csv,
+SMARTool_data_A2.csv, SMARTool_data_B1.csv, SMARTool_data_B2.csv.
+
+File SMARTool_data_Topics.csv lists and explains the topics that are used in
+column "Topic(s)" in the following files: SMARTool_data_A1.csv,
+SMARTool_data_A2.csv, SMARTool_data_B1.csv, SMARTool_data_B2.csv.
+
+
+### Data-specific information for: SMARTool_data_A1.csv, SMARTool_data_A2.csv, SMARTool_data_B1.csv, SMARTool_data_B2.csv
+
+- Target language lemma:            The lemma of the selected Russian lexemes. 
+- ID:                               Unique identifier for each line in the dataset. 
+- User language gloss:              English gloss for each target language lemma. 
+- English gloss:                    This column is empty. 
+- POS:                              Part of speech for each target language lemma. 
+- Level:                            CEFR (The Common European Framework of
+                                    Reference for Languages) level for each
+                                    target language lemma. Values: A1,
+                                    A2, B1, B2.
+- Word source:                      This column indicates vocabularies that contain the lemma. Values: Golosa (stands for the textbook “Golosa”[Voices]), MiP (stands for the textbook “Свидание в Петербурге. Møde i Petersborg”[Meeting in Saint Petersburg]), LM (stands for Leksicheskii mimimum po russkomu iazyku kak inostrannomu [Lexical minimum for Russian as a foreign language]), МН (stands for the textbook “Между нами” [Between You and Me]), Поехали (stands for the textbook “Поехали” [Let’s go]), Кс (stands for the textbook “Kak sprosit’? Kak skazat’?” [How to ask? How to say?])
+
+- Ex. ID:                           The ordinal number of the example sentence for each target language lemma. Values: 1, 2, 3.
+- Form:                             The exact word form of the corresponding target language lemma.
+- Analysis:                         Morphological analysis for each word form. 
+- Target language example sentence: The example sentence illustrating the use of corresponding word form in Russian for each target language lemma. In some rows, this column is intentionally left empty. 
+- User language translation:        The English translation of the corresponding example sentence. 
+- English translation:              This column is empty.
+- Reference:                        Reference to a particular source for the corresponding example sentence. 
+- Topic(s):                         Topic or topics to which each target language lemma in the dataset belongs.
+- Lesson:                           The ordinal number of the lesson in “Min
+                                    russiske reise” textbook to which each
+                                    target language lemma in the dataset
+                                    belongs. 
+- Unnamed column:                   This column can contain the annotators’
+                                    comments needed for the internal work on
+                                    the project. Most of the rows of
+                                    this column are empty. 
+
+
+### Data-specific information for: SMARTool_data_Abbreviations.csv
+
+- Abbreviation:        The abbreviation that is used in the dataset. 
+- Spellout:            The linguistic term that the abbreviation refers to. 
+- English gloss:       This column is empty.
+- English translation: This column is empty.
+
+
+### Data-specific information for: SMARTool_data_Topics.csv
+
+- Topic:                     The topic for lexemes in the dataset in the target language. 
+- User language translation: The English translation of the topic. 
 
 
 ## Sharing/access information
@@ -113,12 +172,11 @@ The dataset is provided under the [CC-BY 4.0 license](https://creativecommons.or
     Forms: A Strategic Resource for Acquiring Russian Vocabulary and
     Morphology. *Russian Language Journal* 69, 175--193.
 
-3.  Janda, Laura A. 2021. Getting more out of limited input: strategic
-    mastery of foreign languages. In: papers of the Kazan International
-    Linguistic Summit "Challenges and Trends in World Linguistics"
-    **Вызовы и тренды мировой лингвистики: **Казанский международный
-    лингвистический саммит (Казань, 16--20 ноября 2020 г.): тр. и
-    матер.: в 2 т. / под общ. ред. Р.Р. Замалетдинова, Ф.Х. Тарасовой,
-    Е.А. Горобец. -- Казань: Издательство Казанского университета. --
-    Т. 1. -- 450 с., <https://cloud.mail.ru/public/xeKT/vGMAQBUMa> , pp.
-    280--284.
+3.  Janda, Laura A. 2021. Getting more out of limited input: strategic mastery
+    of foreign languages. In: Вызовы и тренды мировой лингвистики: Казанский
+    международный лингвистический саммит (Казань, 16–20 ноября 2020 г.): тр. и
+    матер.: в 2 т. / под общ. ред. Р.Р. Замалетдинова, Ф.Х. Тарасовой, Е.А.
+    Горобец. -- Казань: Издательство Казанского университета. -- Т. 1. -- 450
+    с. [papers of the Kazan International Linguistic Summit "Challenges and
+    Trends in World Linguistics", vol.
+    1], https://cloud.mail.ru/public/xeKT/vGMAQBUMa, pp. 280--284.
